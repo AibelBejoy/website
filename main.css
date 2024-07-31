@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+	background: linear-gradient(180deg,azure,pink);
+	height: 735px;
+}
+
+h3{
+	font-size: 35px;
+	font-family:sans-serif;
+	animation: anim1 0.5s;
+	text-decoration:underline;
+	display:flex;
+	justify-content:center;
+	margin-top:20px
+}
+
+.gallery {
+	margin-top:50px;
+	display:flex;
+	justify-content:center;
+	gap: 1rem;
+	
+}
+
+.gallery img{
+	height:400px;
+	width:140px;
+	object-fit:cover;
+	transition: width .3s;
+}
+
+.gallery div:hover img{
+
+	width:350px;
+}
+
+
+p1{
+	font-weight:bold;
+	font-size:40px;
+	font-family:sans-serif;
+	display:flex;
+	justify-content:center;
+	margin-top:10%;
+	text-align:center;
+	animation: anim2 3s
+}
+
