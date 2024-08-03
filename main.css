@@ -9,7 +9,7 @@ html {
 }
 
 body {
-	background: linear-gradient(180deg, azure, pink);
+	background: linear-gradient(180deg, rgb(136, 255, 63), rgb(238, 228, 230));
 	height: auto;
 }
 
@@ -45,7 +45,7 @@ h3 {
 p1 {
 	font-weight: bold;
 	font-size: 40px;
-	font-family: sans-serif;
+	font-family: Veronica;
 	text-align: center;
 	animation: anim2 3s
 }
