@@ -16,7 +16,7 @@ body {
 h3 {
 	font-size: 55px;
 	color: black;
-	font-family: sans-serif;
+	font-family: Frank Ruehl CLM;
 	margin-bottom: 50px;
 	top: 120px;
 	display: flex;
@@ -45,7 +45,7 @@ h3 {
 p1 {
 	font-weight: bold;
 	font-size: 40px;
-	font-family: Veronica;
+	font-family: DejaVu Serif;
 	text-align: center;
 	animation: anim2 3s
 }
