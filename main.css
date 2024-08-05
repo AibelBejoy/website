@@ -34,6 +34,7 @@ h3 {
 	width: 140px;
 	object-fit: cover;
 	transition: width .3s;
+	cursor: pointer;
 }
 
 .gallery div:hover img {
